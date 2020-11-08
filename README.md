@@ -1,2 +1,2 @@
-# MRKM_fi02m_PoOlBe
+# MRKM_fi02m_type2
 Here, You can find labs for MRKB course.
