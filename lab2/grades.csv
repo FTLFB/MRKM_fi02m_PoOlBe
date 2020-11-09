@@ -1,0 +1,12 @@
+generator_type,     alfa,       307.619,,     65863.9,,     4027.92,     
+Crypto.Random.random,     0.01,     255.24,   PASS,  64789.8,   PASS,  3875.34,   PASS,  
+
+
+generator_type,     alfa,       292.149,,     65618.2,,     3951.82,     
+Crypto.Random.random,     0.05,     255.24,   PASS,  64789.8,   PASS,  3875.34,   PASS,  
+
+
+generator_type,     alfa,       281.648,,     65487.2,,     3928.21,     
+Crypto.Random.random,     0.1,     255.24,   PASS,  64789.8,   PASS,  3875.34,   PASS,  
+
+
